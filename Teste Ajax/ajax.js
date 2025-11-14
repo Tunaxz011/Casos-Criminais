@@ -15,6 +15,10 @@ const url = "https://jsonplaceholder.typicode.com/todos/1"
        try {
         // fetch retorna uma Promise que resolve para Response
         const res = await fetch(url, { method: "GET"});
-        if (!res.ok) throw new Error
-       }
+        if (!res.ok) throw new Error("Status HTTP: " + res.status);
+        const data = await res.json();
+        output.textContent = JSON.stringify(data, null, 2); 
+      } catch (err) {
+        output.textContent = 
+      }
     })

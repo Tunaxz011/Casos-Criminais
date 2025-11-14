@@ -1,5 +1,4 @@
-# HTML : Quais elementos estão sendo usados?
-Center para centralizar algumas informações do site.
+# HTML : Quais elementos estão sendo usados
 Os elementos que estão sendo usados são:
  O h1 para o título, div para centralizar o título.
  O nav junto com ul e li para organizar os links para as outras páginas do site.
