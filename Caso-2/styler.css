@@ -10,7 +10,7 @@
 
 .navbar{
     background-color: rgb(0, 0, 0);
-    color: rgb(255, 126, 126);
+    color: rgb(255, 115, 115);
 }
 .navbar ul{
     display: flex;
@@ -32,7 +32,7 @@ header h3{
 }
 .spectral-extralight {
   font-family: "Spectral", serif;
-  font-weight: 200;
+  font-weight: 210;
   font-style: normal;
 }
 
