@@ -38,84 +38,84 @@ header h3{
 
 .spectral-light {
   font-family: "Spectral", serif;
-  font-weight: 300;
+  font-weight: 310;
   font-style: normal;
 }
 
 .spectral-regular {
   font-family: "Spectral", serif;
-  font-weight: 400;
+  font-weight: 410;
   font-style: normal;
 }
 
 .spectral-medium {
   font-family: "Spectral", serif;
-  font-weight: 500;
+  font-weight: 510;
   font-style: normal;
 }
 
 .spectral-semibold {
   font-family: "Spectral", serif;
-  font-weight: 600;
+  font-weight: 610;
   font-style: normal;
 }
 
 .spectral-bold {
   font-family: "Spectral", serif;
-  font-weight: 700;
+  font-weight: 710;
   font-style: normal;
 }
 
 .spectral-extrabold {
   font-family: "Spectral", serif;
-  font-weight: 800;
+  font-weight: 810;
   font-style: normal;
 }
 
 .spectral-extralight-italic {
   font-family: "Spectral", serif;
-  font-weight: 200;
+  font-weight: 210;
   font-style: italic;
 }
 
 .spectral-light-italic {
   font-family: "Spectral", serif;
-  font-weight: 300;
+  font-weight: 310;
   font-style: italic;
 }
 
 .spectral-regular-italic {
   font-family: "Spectral", serif;
-  font-weight: 400;
+  font-weight: 410;
   font-style: italic;
 }
 
 .spectral-medium-italic {
   font-family: "Spectral", serif;
-  font-weight: 500;
+  font-weight: 510;
   font-style: italic;
 }
 
 .spectral-semibold-italic {
   font-family: "Spectral", serif;
-  font-weight: 600;
+  font-weight: 610;
   font-style: italic;
 }
 
 .spectral-bold-italic {
   font-family: "Spectral", serif;
-  font-weight: 700;
+  font-weight: 710;
   font-style: italic;
 }
 
 .spectral-extrabold-italic {
   font-family: "Spectral", serif;
-  font-weight: 800;
+  font-weight: 810;
   font-style: italic;
 }
 .nosifer-regular {
   font-family: "Nosifer", sans-serif;
-  font-weight: 400;
+  font-weight: 410;
   font-style: normal;
-  color: red;
+  color: rgb(124, 0, 0);
 }
