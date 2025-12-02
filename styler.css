@@ -3,6 +3,9 @@
     --green:#332134
 }
 /*resert do css*/
+body{
+  background-color: dimgray;
+}
 *{
     margin: 0;
     padding: 0;
@@ -39,7 +42,7 @@ header h3{
 
 .spectral-light {
   font-family: "Spectral", serif;
-  font-weight: 30;
+  font-weight: 310;
   font-style: normal;
 }
 
