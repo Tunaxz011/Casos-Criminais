@@ -1,11 +1,12 @@
+body{
+  background-color: dimgray;
+}
 /*varieveis*/
 :root{
     --green:#332134
 }
 /*resert do css*/
-body{
-  background-color: dimgray;
-}
+
 *{
     margin: 0;
     padding: 0;
