@@ -32,104 +32,89 @@ header h3{
     position: absolute;
     left: calc(50%);
     transform: translateX(-50%);
-    color: rgb(255, 255, 255);
 }
 .spectral-extralight {
   font-family: "Spectral", serif;
   font-weight: 210;
   font-style: normal;
-  color: rgb(255, 255, 255);
 }
 
 .spectral-light {
   font-family: "Spectral", serif;
   font-weight: 310;
   font-style: normal;
-  color: rgb(255, 255, 255);
 }
 
 .spectral-regular {
   font-family: "Spectral", serif;
   font-weight: 410;
   font-style: normal;
-  color: rgb(255, 255, 255);
 }
 
 .spectral-medium {
   font-family: "Spectral", serif;
   font-weight: 510;
   font-style: normal;
-  color: rgb(255, 255, 255);
 }
 
 .spectral-semibold {
   font-family: "Spectral", serif;
   font-weight: 610;
   font-style: normal;
-  color: rgb(255, 255, 255);
 }
 
 .spectral-bold {
   font-family: "Spectral", serif;
   font-weight: 710;
   font-style: normal;
-  color: rgb(255, 255, 255);
 }
 
 .spectral-extrabold {
   font-family: "Spectral", serif;
   font-weight: 810;
   font-style: normal;
-  color: rgb(255, 255, 255);
 }
 
 .spectral-extralight-italic {
   font-family: "Spectral", serif;
   font-weight: 210;
   font-style: italic;
-  color: rgb(255, 255, 255);
 }
 
 .spectral-light-italic {
   font-family: "Spectral", serif;
   font-weight: 310;
   font-style: italic;
-  color: rgb(255, 255, 255);
 }
 
 .spectral-regular-italic {
   font-family: "Spectral", serif;
   font-weight: 410;
   font-style: italic;
-  color: rgb(255, 255, 255);
 }
 
 .spectral-medium-italic {
   font-family: "Spectral", serif;
   font-weight: 510;
   font-style: italic;
-  color: rgb(255, 255, 255);
 }
 
 .spectral-semibold-italic {
   font-family: "Spectral", serif;
   font-weight: 610;
   font-style: italic;
-  color: rgb(255, 255, 255);
 }
 
 .spectral-bold-italic {
   font-family: "Spectral", serif;
   font-weight: 710;
   font-style: italic;
-  color: rgb(255, 255, 255);
 }
 
 .spectral-extrabold-italic {
   font-family: "Spectral", serif;
   font-weight: 810;
   font-style: italic;
-  color: rgb(255, 255, 255);
 }
 .nosifer-regular {
   font-family: "Nosifer", sans-serif;
