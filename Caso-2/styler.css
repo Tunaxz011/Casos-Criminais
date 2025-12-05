@@ -1,6 +1,9 @@
 :root{
     --green:#332134
 }
+body {
+  background-color: rgb(255, 232, 206);
+}
 /*resert do css*/
 *{
     margin: 0;
